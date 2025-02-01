@@ -2,7 +2,7 @@
 
 The primary objective of this project is to develop a comprehensive and efficient database structure for a library management system. The system is designed to store, organize, and manage book-related data, including information about authors, categories, members, and transactions.
 
-#### **Key Features **
+#### Key Features 
 
 - **Data Relationships:**  
   The schema follows a relational database approach with well-defined relationships between entities. This ensures data integrity and consistency, allowing for better management of one-to-many and many-to-many relationships between books, authors, categories, and members.
